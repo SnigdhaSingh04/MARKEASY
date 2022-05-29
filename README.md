@@ -8,3 +8,8 @@ It is an efficient way of marking attendance.
 This maintains daily basis of attendance by using unique ID and login password.
 
 
+Sample :
+![Sample](https://user-images.githubusercontent.com/86004853/170881144-7f0d122d-b432-4b64-a8d9-482a8190c70a.PNG)
+
+
+
